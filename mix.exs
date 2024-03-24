@@ -39,7 +39,7 @@ defmodule LiveviewStyling.MixProject do
   end
 
   defp description() do
-    "The easiest way to make a LiveView REPL"
+    "Enhance Phoenix LiveView with dynamic styling for responsive, interactive web applications."
   end
 
   defp package do
